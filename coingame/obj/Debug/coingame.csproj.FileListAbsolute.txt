@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\coingame\coingame\bin\Debug\coingame.exe.config
+C:\Users\HP\source\repos\coingame\coingame\bin\Debug\coingame.exe
+C:\Users\HP\source\repos\coingame\coingame\bin\Debug\coingame.pdb
+C:\Users\HP\source\repos\coingame\coingame\obj\Debug\coingame.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\coingame\coingame\obj\Debug\coingame.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\coingame\coingame\obj\Debug\coingame.exe
+C:\Users\HP\source\repos\coingame\coingame\obj\Debug\coingame.pdb
